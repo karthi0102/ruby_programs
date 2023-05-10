@@ -42,3 +42,4 @@ end
 
 c=Child.new
 c.getn
+

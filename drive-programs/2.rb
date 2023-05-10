@@ -32,4 +32,6 @@ file.close
 
 file = File.open("demo.csv","w")
 
+#f
+puts File.exist?"11.rb"
 
